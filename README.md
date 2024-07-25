@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Me chamo Gabriela Sena</h1>
 <h3 align="center">Sou apaixonada por tecnologia e análise de dados!</h3>
 
-- 👨‍💻 Atualmente estou postando projetos no [Portfólio](https://github.com/gabrielasenareis/Portfolio)
+- 👨‍💻 Atualmente estou postando projetos no [Portfólio](https://gabrielasenadatasc.wixsite.com/portfolio)
 
 - 🌱 Atualmente estou aprendendo **Python, Machine Learning, SQL, MongoDB, Cloud Computing e Power BI**
 
